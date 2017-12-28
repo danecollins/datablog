@@ -1,10 +1,10 @@
-Title: Getting fitness data from an Apple Watch
+Title: Getting fitness data from an Apple Watch</i>
 Slug: apple-watch
 Date: 2016-05-06 20:00
 Category: posts
-Tags: "Apple Watch"SS
+Tags: "Apple Watch"
 author: Dane Collins
-Summary: How to get data from the Apple Watch
+Summary: How to get data from the <i class="fab fa-apple"></i> <i class="fal fa-watch">
 
 When I got an Apple Watch last year I knew it would not work with the Fitbit platform easily (the two companies don't like each other much).  I like some aspects of the Apple Watch but the fact that you can only look at the data on your phone or tablet makes it a poor competitor to the Fitbit platform.  There are apps that will sync your Apple Watch steps with your Fitbit account if you're looking to replace your Fitbit with the Watch but I wanted to collect data from both so that I could compare them.
 

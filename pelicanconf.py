@@ -4,9 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Dane Collins'
 SITENAME = 'exploring data'
+SITESUBTITLE = 'Using Python and Tableau'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'themes/pelican-alchemy/alchemy'
 
 TIMEZONE = 'US/Pacific'
 
@@ -20,14 +22,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('twitter', 'https://twitter.com/danecollins/'),
+         ('linkedin', 'https://www.linkedin.com/in/danec/'),
+         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/danecollins/'),
+          ('linkedin', 'https://www.linkedin.com/in/danec/'),)
 
 DEFAULT_PAGINATION = 20
 
@@ -36,5 +37,5 @@ DEFAULT_PAGINATION = 20
 
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATH = './plugins'
+PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
