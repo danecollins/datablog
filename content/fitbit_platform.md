@@ -1,7 +1,7 @@
 Title: Fitbit as a Platform
 Date: 2014-08-07 18:58:08
 Category: posts
-Tags: Fitbit Fitness
+Tags: Fitbit, Fitness
 author: Dane Collins
 Summary: Using the Fitbit site as a platform
 

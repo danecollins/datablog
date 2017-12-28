@@ -2,7 +2,7 @@ Title: Getting fitness data from an Apple Watch</i>
 Slug: apple-watch
 Date: 2016-05-06 20:00
 Category: posts
-Tags: "Apple Watch"
+Tags: Apple, Watch, Fitness
 author: Dane Collins
 Summary: How to get data from the <i class="fab fa-apple"></i> <i class="fal fa-watch">
 
