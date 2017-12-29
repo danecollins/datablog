@@ -33,7 +33,7 @@ SOCIAL = (('twitter', 'https://twitter.com/danecollins/'),
 DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 MARKUP = ('md', 'ipynb')
 
@@ -41,3 +41,5 @@ PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
 
 STATIC_PATHS = ['images']
+IGNORE_FILES = ['.ipynb_checkpoints', '__pycache__']
+EXTRA_PATH_METADATA = {'images/favicon.ico': {'path': 'favicon.ico'}, }
