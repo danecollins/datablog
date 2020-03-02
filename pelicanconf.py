@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
 
 AUTHOR = 'Dane Collins'
 SITENAME = 'exploring data'
-SITESUBTITLE = 'Using Python and Tableau'
+SITESUBTITLE = 'Thinking about and analyzing data'
 SITEURL = ''
 
 PATH = 'content'
