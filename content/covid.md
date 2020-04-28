@@ -58,3 +58,23 @@ For me, the data that really got me to understand this issue was this article.  
 compared to the rate of other deaths really resonated with me.  Yes, people die of many other things but
 with Covid19, these deaths have occurred in just 2 months, not 12.
 
+# Things to watch for
+
+Whether listening to people's arguments, looking at their graphs, reading their stories it helps to
+know some of the telltale signs of people misusing data. Sometimes this misuse is on purpose but way
+more often, people are just forgetting some basic principles. Here are some basic things to watch for.
+
+## Data extrapolation
+
+This argument goes like "I tested 100 people and 2 were sick so 2% of all people are sick". This will
+only be true if the people you tested are a completely random sample. When it comes to testing people
+for Covid19 the testing is never random so you can never extrapolate the results to everyone.
+
+## Changing timescales
+
+This argument goes like this 50,000 people die of car accidents and 50,000 people have died from Covid19
+so it is no worse than car accidents.  What if we instead change this to per month instead of per year?
+It would be 35,000 people died from Covid this month but 4,200 people died in car accidents.  Or what if
+we compared on a 10 year scale?  500,000 people died in car accidents and 50,000 from Covid19.  The time
+scale completely changes the message.  You have to make sure the timescale being used makes sense.
+
